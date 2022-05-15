@@ -10,5 +10,6 @@ El verdadero amor por las buenas prácticas
 *Trucos muy locos del profesor
 *Las personalidades múltiples de Freddy
 *Creado por el incríeble Platzi Team.
+* Incluye ejemplos en Windows, Linux y Mac.
 
 Y como un amable **Este readme.md es un chiste**. Diseñado para el ejemplo. SI llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
